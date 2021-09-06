@@ -169,7 +169,7 @@ $ source sagemaker/bin/activate
 OR
 Activate Envornment in Windows
 ```
-$ sagemamer\Scripts\activate
+$ sagemaker\Scripts\activate
 (sagemaker) D:\Qasim\PIAIC\Quarter4\Practice\Chapter1\Installation>
 ```
 
